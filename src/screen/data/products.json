@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "title": "Nike mercurial",
+        "price": 60,
+        "brand": "Nike",
+        "category": "botines",
+        "images": ""
+    },
+    {
+        "id": 2,
+        "title": "Adidas x ghost",
+        "price": 60,
+        "brand": "Adidas",
+        "category": "botines",
+        "images": ""
+    }
+    ,
+    {
+        "id": 3,
+        "title": "Remera negra",
+        "price": 20,
+        "brand": "ZARA",
+        "category": "remeras",
+        "images": ""
+    }
+    ,
+    {
+        "id": 4,
+        "title": "Remera blanca",
+        "price": 20,
+        "brand": "ZARA",
+        "category": "remeras",
+        "images": ""
+    }
+    ,
+    {
+        "id": 5,
+        "title": "jean azul claro",
+        "price": 40,
+        "brand": "ZARA",
+        "category": "pantalones",
+        "images": ""
+    }
+]

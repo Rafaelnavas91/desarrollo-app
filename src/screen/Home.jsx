@@ -3,11 +3,11 @@ import Header from "./components/Header";
 import Categories from "./components/Categories";
 
 
-function Home (){
+function Home ({setCategorySelected}){
     return(
         <View >
             <Header title={"Bienvenido"}/>
-         <Categories/>
+         <Categories setCategorySelected={setCategorySelected}/>
 
         </View>
     )
